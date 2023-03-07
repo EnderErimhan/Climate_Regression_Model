@@ -6,7 +6,7 @@ What geographical properties affect a cities average annual temperature in the e
 
 ## Data Dictionary
 
-The data was collected from usclimatedata.com, Google Earth and WolframAlpha. The data in this repository can be found in a pdf file called climate.pdf The description of the columns are below:
+The data was collected from usclimatedata.com, Google Earth and WolframAlpha. The data in this repository can be found in a pdf file called climate.pdf. The description of the columns are below:
 
 Latitude -> The cities latitude in Degrees Minutes Seconds format.  
 
