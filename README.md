@@ -4,6 +4,8 @@
 
 What geographical properties affect a cities average annual temperature in the east coast?
 
+The full notebook can be accessed [here.](https://rpubs.com/Ender_Erimhan/1015254)
+
 ## Data Dictionary
 
 The data was collected from usclimatedata.com, Google Earth and WolframAlpha. The data in this repository can be found in a pdf file called climate.pdf. The description of the columns are below:
